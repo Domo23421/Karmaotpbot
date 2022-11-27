@@ -1,5 +1,5 @@
 {
-  "name": "★𝐑𝐃𝐗bot★",
+  "name": "KamaOTPbot",
   "description": "The legend RDX bot is on the floor to give a sleek and sexy fucking experience to you on telegram, deploy our bot to get that.",
   "logo": "https://telegra.ph/file/90015e33395f6196486ee.gif",
     "keywords": [
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/RDX-GANG/RDX-bot/",
+  "repository": "https://github.com/Domo23421/Karmaotpbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -147,9 +147,6 @@
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
-    },
-    {
-      "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
     },
     {
       "url": "heroku/python"
