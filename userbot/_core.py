@@ -10,7 +10,7 @@ from userbot import ALIVE_NAME, bot
 from userbot.utils import admin_cmd, edit_or_reply, load_module, remove_plugin
 
 DELETE_TIMEOUT = 5
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "🔱╚»★𝐑𝐃𝐗bot★«╝🔱 user"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "KamaOTPbot user"
 
 
 @bot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))
